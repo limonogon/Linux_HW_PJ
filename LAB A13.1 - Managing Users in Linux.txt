@@ -1,0 +1,40 @@
+LAB A13.1 - Managing Users in Linux 
+ 
+1)  Which method of adding user accounts is faster? 
+through the terminal 
+ 
+2)  Which method of adding user accounts is easier to remember? 
+either way is easy 
+ 
+3)  What is the benefit of adding users using the command line?  
+you can do many other operations in the same Terminal using commands, it’s easier, 
+because you don’t need to remember where to go in GUI to do one or another thing 
+ 
+4)  What is the benefit of adding users using the GUI?  
+you can see the user profiles like in windows, and it’s what the regular pc user is used to 
+do and see 
+ 
+5)  What are the different types of user accounts that can be created in Ubuntu?  
+administrator or standard account 
+ 
+6)  What is the command to execute a command as an administrator?  
+sudo 
+ 
+7)  What does the sudo command do?  
+give you the permissions of administrator to make changes and work with restricted 
+objects, but you have to be in the group of sudo 
+ 
+8)  What does the su command do? 
+switch user 
+ 
+9)  What does the whoami command do?  
+shows your user id 
+ 
+10) What is a command that you can use to check the time from the Terminal?  
+date 
+ 
+11) What is a command that you can use to check the date from the Terminal?  
+date 
+ 
+12) What is a command to view the permission of an object in the Terminal? 
+ls -l /path/filename 

@@ -1,0 +1,41 @@
+1. What is the IP address and netmask of the ethernet 
+interface?  
+
+  IP address is a network interface and location addressing 
+identifier. An Internet Protocol (IP) address is a unique 
+number assigned to a hosts on a network. 
+
+  Network mask is a number system that can be used to define 
+which IP addresses are considered to be within a single 
+network. 
+2. How do you determine what your userid is? 
+
+  UID is an account number assign to you as user 
+3.  What is your numeric userid?  
+
+  1000 
+4. What file is your userid stored in? 
+
+  /etc/passwd 
+5. What is your groupid? 
+
+  1000 
+6. What file is your groupid stored in? 
+
+  /etc/group 
+
+  /etc/passwd 
+7. what is stored in the /etc/hostname file? 
+
+  Hostname: psadmin-VirtualBox 
+Each host is provided a human-understandable name, called a 
+hostname.  Hostnames are translated into IP addresses before 
+the network packet is sent on the network.   
+8. What sorts of files are stored in the /var directory? 
+Variable data – files that change over time 
+9. What is the difference between the /tmp and ~/tmp 
+directories? 
+Tilde directory ~/tmp. The PATH variable is usually customized 
+by modifying the ~/.bash_profile file 
+10.  What command can you use to make a shell script executable? 
+sudo 
